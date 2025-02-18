@@ -11,4 +11,4 @@ Este projeto demonstra a aplicação de **Transfer Learning** para classificar i
 ## 📂 Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/transfer-learning.git
+   git clone https://github.com/Laurindocak/transfer-learning.git
